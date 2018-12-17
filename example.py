@@ -2,7 +2,7 @@
 # discussed in the first three lectures.
 
 import numpy as np
-import pandas as import pd
+import pandas as pd
 
 # read a CSV file
 df = pd.read_csv('data.csv', sep=';')
